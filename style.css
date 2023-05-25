@@ -8,7 +8,7 @@
 }
 
 .container {
-    background-image: url("./images/istockphoto-1393245512-170667a.jpg");
+    background-image: url("../images/istockphoto-1393245512-170667a.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
